@@ -1,7 +1,7 @@
 ### Hi there, I'm Martin
 
 <!--
-**MartinMSPedersen/MartinMSPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PTRSC/aboutme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="martinmspedersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="martinmspedersen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="petersandahlchristensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PeterSandahl | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
