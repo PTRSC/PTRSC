@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[su0806]: https://www.superusers.dk/kursus/su0806/ 
-[linkedin]: https://linkedin.com/in/martinmspedersen
-[twitter]: https://twitter.com/trxplayer
+[linkedin]: https://www.linkedin.com/in/petersandahlchristensen/
+[twitter]: https://twitter.com/PeterSandahl
