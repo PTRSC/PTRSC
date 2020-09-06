@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - I'm currently working on an [ElectronJS course][su0806]
 - 2020 Goals: Finish a book with 150 trax puzzles
+-->
 
 ### Connect with me:
 
