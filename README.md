@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="petersandahlchristensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="petersandahlchristensen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="petersandahlchristensen | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
+[<img align="left" alt="petersandahlchristensen | facebook" width="22px" src="https://www.humhub.com/marketplace/youracclaim/download-image" />][facebook]
 
 <br />
 
