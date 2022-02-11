@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="petersandahlchristensen | Acclaim" width="22px" src="https://www.humhub.com/marketplace/youracclaim/download-image" />][Acclaim]
 <br />
 
-![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Martin%27s%20GitHub%20stats)
+![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Peters%27s%20GitHub%20stats)
 <br />
 
 ### Languages and Tools:
