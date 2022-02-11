@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### GitHub Stats and Language:
 ![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Peters%27s%20GitHub%20stats)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/docker.svg" />
