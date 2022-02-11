@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="petersandahlchristensen | Acclaim" width="22px" src="https://www.humhub.com/marketplace/youracclaim/download-image" />][Acclaim]
 <br />
 
-### GitHub repository language:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub repository language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact&custom_title=My%20GitHub%20repository%20language)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-### GitHub stats:
+### My GitHub stats:
 ![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Peters%27s%20GitHub%20stats)
 <br />
 
