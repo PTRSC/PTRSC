@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact&custom_title=My%20GitHub%20repository%20language&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ### My GitHub stats:
-![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Peters%27s%20GitHub%20stats)
+![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&custom_title=My%20GitHub%20stats)
 <br />
 
 ### Languages and tools:
