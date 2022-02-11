@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <br />
 
 ### GitHub Stats and Language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Peter's GitHub status](https://github-readme-stats.vercel.app/api?username=PTRSC&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Peters%27s%20GitHub%20stats)
 <br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTRSC&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/docker.svg" />
@@ -37,8 +36,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" />
 <img align="left" alt="Nano Text Editor" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" />
-
-<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/petersandahlchristensen/
