@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[<img align="left" alt="petersandahlchristensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="petersandahlchristensen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="petersandahlchristensen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
-[<img align="left" alt="petersandahlchristensen | Acclaim" width="22px" src="https://www.humhub.com/marketplace/youracclaim/download-image" />][Acclaim]
+[<img align="left" alt="petersandahlchristensen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="petersandahlchristensen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="petersandahlchristensen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="petersandahlchristensen | Acclaim" width="22px" src="https://images.credly.com/size/400x400/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png"/>][Credly]
 <br />
 
 ### My GitHub repository language:
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/petersandahlchristensen/
 [twitter]: https://twitter.com/PeterSandahl
 [facebook]: https://www.facebook.com/Peter.Christensen.PSC.Data/
-[Acclaim]: https://www.youracclaim.com/users/peter-sandahl-christensen/
+[Credly]: https://www.credly.com/users/peter-sandahl-christensen/badges
